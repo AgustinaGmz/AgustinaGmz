@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Agustina
+#  👋 ¡Hola! Soy Agustina
 
 🔍 Tester QA con experiencia en proyectos freelance, con un fuerte enfoque en la calidad del software (Java + Selenium).  
 💡 Apasionada por encontrar errores antes que los usuarios y asegurar una experiencia funcional y sin fallas.  
@@ -20,7 +20,7 @@
 
 📫 **¿Querés contactarme o ver más de mi trabajo?**  
 Visitá mi [LinkedIn](https://www.linkedin.com/in/agustinagimenez2/) o escribime directamente.
-Visitá mi [Sitio Web](https://agustinagmz.github.io/)
+Éste es mi sitio web [Sitio Web](https://agustinagmz.github.io/)
 
 <!--
 **AgustinaGmz/AgustinaGmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

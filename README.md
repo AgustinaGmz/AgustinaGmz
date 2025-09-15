@@ -1,13 +1,9 @@
 #  👋 ¡Hola! Soy Agustina
 
 🔍 Tester QA con experiencia en proyectos freelance, con un fuerte enfoque en la calidad del software (Java + Selenium).  
-
 💡 Apasionada por encontrar errores antes que los usuarios y asegurar una experiencia funcional y sin fallas.  
-
 🚀 Interesada en nuevas tendencias como el uso de Inteligencia Artificial para automatizar y optimizar procesos de testing.  
-
 📚 Me sigo capacitando constantemente en herramientas de testing manual y automatizado.  
-
 🎯 Busco oportunidades para formar parte de equipos de desarrollo y contribuir con mi mirada crítica y detallista.  
 
 

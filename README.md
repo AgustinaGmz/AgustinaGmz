@@ -14,7 +14,7 @@
 - Casos de prueba, reportes y documentación QA  
 - Uso de JIRA y Trello aplicados a metodologías ágiles   
 - Manejo de API con Postman y base de datos para la validación de datos
-- Buenas prácticas de diseño UX/UI Conocimientos en desarrollo Full Stack (para una mejor comprensión técnica del software)
+- Buenas prácticas de diseño UX/UI. Conocimientos en desarrollo Full Stack (para una mejor comprensión técnica del software)
 
 
 ---
@@ -23,6 +23,7 @@
 Visitá mi [LinkedIn](https://www.linkedin.com/in/agustinagimenez2/) o escribime directamente.
 Éste es mi sitio web [Sitio Web](https://agustinagmz.github.io/)
 
+📧 Podés contactarme también por [e-mail](agustina.gmenz@gmail.com)
 <!--
 **AgustinaGmz/AgustinaGmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
